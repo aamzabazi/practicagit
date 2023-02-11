@@ -1,1 +1,2 @@
 Opciones de status
+Nueva rama con cambios.
