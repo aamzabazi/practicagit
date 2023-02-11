@@ -1,1 +1,2 @@
 Contornos practicando git
+Opciones de status.
